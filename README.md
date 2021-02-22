@@ -16,7 +16,7 @@
 ## 🖥 Preview
 
 <p align="center">
-  <img src="https://imgur.com/COKMuQV.png" width="700" >
+  <img src="https://imgur.com/talqr5X.png" width="700" >
 </p>
 
 
