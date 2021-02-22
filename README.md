@@ -1,46 +1,72 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://imgur.com/gxKZeqc.png" >
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📋 Índice
+- [📋 Índice](#-índice)
+- [🖥 Preview](#-preview)
+- [📖 Sobre](#-sobre)
+- [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
+  - [Front-End](#front-end)
+- [⌨ Como executar o projeto](#-como-executar-o-projeto)
 
-## Available Scripts
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 🖥 Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img src="https://imgur.com/COKMuQV.png" width="700" >
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📖 Sobre
 
-### `yarn build`
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 26 de Fevereiro de 2021.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A proposta do projeto foi desenvolver um timer Pomodoro, a ideia é unir a técnica de Pomodoro e exercícios, aos finais de cada ciclo o usuário recebe uma tarefa e conforme for completando as tarefas, ganhará uma quantidade de experiência, assim passando para o proximo nível.🚀
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Tecnologias utilizadas
 
-### `yarn eject`
+O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Front-End
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - [React.js](https://reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - [Next.js](https://nextjs.org/docs/getting-started)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ⌨ Como executar o projeto
 
-## Learn More
+```bash
+# Clonar o repositório
+git clone https://github.com/Ivillysg/Next-Level-Week-4.0.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Entrar no diretório
+cd Next-Level-Week-4.0
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Baixar as dependências
+yarn ou npm i
+
+# Projeto web
+cd Next-Level-Week-4.0
+
+# Para executar o web
+yarn start
+ou
+npm run start
+
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
+
+---
+
+
+Desenvolvido com 💜 por Ivillys Gomes
