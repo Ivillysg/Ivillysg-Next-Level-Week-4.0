@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/EptwwWq.png" >
+  <img src="https://imgur.com/XxlyY4t.png" >
 </p>
 
 ## 📋 Índice
