@@ -54,10 +54,7 @@ cd Next-Level-Week-4.0
 # Baixar as dependências
 yarn ou npm i
 
-# Projeto web
-cd Next-Level-Week-4.0
-
-# Para executar o web
+# Para executar
 yarn start
 ou
 npm run start
