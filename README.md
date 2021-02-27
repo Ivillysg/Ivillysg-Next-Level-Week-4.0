@@ -26,7 +26,7 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 26 de Fevereiro de 2021.
 
-A proposta do projeto foi desenvolver um timer Pomodoro, a ideia é unir a técnica de Pomodoro e exercícios, aos finais de cada ciclo o usuário recebe uma tarefa e conforme for completando as tarefas, ganhará uma quantidade de experiência, assim passando para o proximo nível.🚀
+A proposta do projeto foi desenvolver um timer Pomodoro e uni-la a exercícios. Ou seja, aos finais de cada ciclo o usuário recebe uma tarefa e conforme for completando as mesmas, ganhará uma quantidade de experiência, assim passando para o proximo nível.🚀
 
 ---
 
